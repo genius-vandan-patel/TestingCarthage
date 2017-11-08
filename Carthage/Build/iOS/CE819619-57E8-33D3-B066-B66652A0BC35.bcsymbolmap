@@ -1,0 +1,41 @@
+BCSymbolMap Version: 2.0
+_swift_rt_swift_getExistentialTypeMetadata
+_swift_rt_swift_allocObject
+_swift_rt_swift_getInitializedObjCClass
+_swift_rt_swift_slowAlloc
+_swift_rt_swift_slowDealloc
+__T0s23_ContiguousArrayStorageCyypGML
+__T0ypML
+__T015CarthageTesting0B0CML
+__T015CarthageTesting0B0CMf
+__T015CarthageTesting0B0CMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_CarthageTesting
+__swift_FORCE_LOAD_$_swiftFoundation_$_CarthageTesting
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_CarthageTesting
+__swift_FORCE_LOAD_$_swiftDarwin_$_CarthageTesting
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_CarthageTesting
+__swift_FORCE_LOAD_$_swiftDispatch_$_CarthageTesting
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_CarthageTesting
+__swift_FORCE_LOAD_$_swiftCoreImage_$_CarthageTesting
+__swift_FORCE_LOAD_$_swiftMetal_$_CarthageTesting
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_CarthageTesting
+___swift_reflection_version
+_objc_classes
+Apple LLVM version 9.0.0 (clang-900.0.38)
+-emit-bc "/Users/mainuser/Personal Development/Playgrounds/TestingCartage/TestingCartage/Testing.swift" -target arm64-apple-ios11.1 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk -I /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/BuildProductsPath/Release-iphoneos -F /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/BuildProductsPath/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/mainuser/Library/Developer/Xcode/DerivedData/ModuleCache -swift-version 4 -serialize-debugging-options -report-errors-to-debugger -Xcc -I/Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/CarthageTesting-generated-files.hmap -Xcc -I/Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/CarthageTesting-own-target-headers.hmap -Xcc -I/Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/CarthageTesting-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/CarthageTesting-project-headers.hmap -Xcc -I/Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/DerivedSources/arm64 -Xcc -I/Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/unextended-module-overlay.yaml -Xcc "-working-directory/Users/mainuser/Personal Development/Playgrounds/TestingCartage" -emit-module-doc-path /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/Objects-normal/arm64/CarthageTesting.swiftdoc -serialize-diagnostics-path /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/Objects-normal/arm64/Testing.dia -O -parse-as-library -module-name CarthageTesting -emit-module-path /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/Objects-normal/arm64/CarthageTesting.swiftmodule -emit-objc-header-path /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/Objects-normal/arm64/CarthageTesting-Swift.h -emit-dependencies-path /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/Objects-normal/arm64/Testing.d -num-threads 4 -o /Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/Objects-normal/arm64/Testing.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/mainuser/Personal Development/Playgrounds/TestingCartage
+Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)
+/Users/mainuser/Personal Development/Playgrounds/TestingCartage/TestingCartage/Testing.swift
+_T015CarthageTesting0B0CMa
+Testing.swift
+/Users/mainuser/Personal Development/Playgrounds/TestingCartage/TestingCartage
+get_field_types_Testing
+deinit
+printSomething
+_allocateUninitializedArray
+_T0Sa13_adoptStorageSayxG_SpyxGts016_ContiguousArrayB0CyxG_Si5counttFZyp_Tg5
+_T0Sa13_adoptStorageSayxG_SpyxGts016_ContiguousArrayB0CyxG_Si5counttFZTfq4gnn_nyp_Tg5
+_T0s23_ContiguousArrayStorageCyypGMa
+_T0ypMa
+/Users/mainuser/Library/Developer/Xcode/DerivedData/TestingCartage-bwlfwcrskkjyrohazupivblrtkbi/Build/Intermediates.noindex/ArchiveIntermediates/CarthageTesting/IntermediateBuildFilesPath/TestingCartage.build/Release-iphoneos/CarthageTesting.build/DerivedSources/CarthageTesting_vers.c
